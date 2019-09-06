@@ -1,1 +1,1 @@
-Yo, Jaaa
+This is Rami's first git project!
